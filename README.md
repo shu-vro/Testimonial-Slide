@@ -31,7 +31,7 @@ To find more, Goto [Swiper js](https://swiperjs.com)
 
 ### Installation
 
-*** In HTML, Include 
+In HTML, Include 
 
 ``` html 
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
